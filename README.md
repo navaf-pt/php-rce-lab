@@ -46,6 +46,7 @@ Docker uses an Apache/PHP container. The application directory is copied into th
 ### Local setup
 
 ```bash
+git clone https://github.com/navaf-pt/php-rce-lab.git
 cd php-rce-deployment-lab
 mkdir -p logs
 ```
