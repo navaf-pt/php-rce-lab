@@ -1,4 +1,4 @@
-# Comparative Security Assessment of PHP Remote Code Execution (RCE) via File Upload in PM2 and Docker Deployment Environments
+# PHP Remote Code Execution (RCE) via File Upload
 
 WARNING: Intentionally Vulnerable Cybersecurity Lab. Run only on localhost or an isolated test network. Never expose this application to the public internet.
 
